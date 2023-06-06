@@ -1,1 +1,1 @@
-Hello World!
+git pull origin update_script
